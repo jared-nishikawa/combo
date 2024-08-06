@@ -1,3 +1,4 @@
 /target
 mix.lock
-fuzz
+artifacts
+corpus
